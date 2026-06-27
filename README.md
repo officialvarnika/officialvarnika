@@ -46,12 +46,24 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-## 🎮 Fun Zone
+<h2 align="center">🎮 Fun Zone</h2>
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="300"/>
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="260">
+</td>
+
+<td align="center">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="260">
+</td>
+
+<td align="center">
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="260">
+</td>
+</tr>
+</table>
+
+
 
 
