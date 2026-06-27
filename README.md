@@ -46,17 +46,9 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<table align="center">
-  <tr>
-    <td>
-      <img src="./assets/coding.gif" width="300" height="220">
-    </td>
-    <td>
-      <img src="./assets/python.gif" width="300" height="220">
-    </td>
-    <td>
-      <img src="./assets/cat.gif" width="300" height="220">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://YOUR-FIRST-GIF.gif" width="300" height="220" alt="Coding GIF 1"/>
+  <img src="https://YOUR-SECOND-GIF.gif" width="300" height="220" alt="Coding GIF 2"/>
+  <img src="https://YOUR-THIRD-GIF.gif" width="300" height="220" alt="Coding GIF 3"/>
+</p>
 
