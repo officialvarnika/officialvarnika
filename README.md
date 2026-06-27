@@ -46,16 +46,12 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-</p>
-<h2>💻 Coding Mode</h2>
+## 🎮 Fun Zone
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="300"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300"/>
 </p>
-<h2>⚡ Keep Coding</h2>
 
-<p align="center">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600"/>
-</p>
+
