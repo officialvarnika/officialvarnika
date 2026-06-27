@@ -25,7 +25,7 @@ Aspiring Software Developer | Learning DSA | Web Development
 - 🌱 Learning Web Development
 - 💻 Solving DSA Problems
 - 🚀 Building Projects
-- 📫 Reach me: officialvarnika@email.com
+- 📫 Reach me: officialvarnika@gmail.com
 - <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,java,mongodb,git,github,vscode,firebase" />
 </p>
@@ -42,7 +42,7 @@ Aspiring Software Developer | Learning DSA | Web Development
 </p>
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6)
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
