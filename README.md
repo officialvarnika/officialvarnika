@@ -49,3 +49,13 @@ Aspiring Software Developer | Learning DSA | Web Development
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
+<h2>💻 Coding Mode</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+<h2>⚡ Keep Coding</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600"/>
+</p>
