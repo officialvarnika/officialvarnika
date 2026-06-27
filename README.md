@@ -33,7 +33,7 @@ Aspiring Software Developer | Learning DSA | Web Development
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=officialvarnika&theme=tokyo-night)
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=officialvarnika&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=officialvarnika&theme=tokyonight"/>
 </p>
