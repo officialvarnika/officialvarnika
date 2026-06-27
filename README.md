@@ -47,8 +47,7 @@ Aspiring Software Developer | Learning DSA | Web Development
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <p align="center">
-  <img src="https://YOUR-FIRST-GIF.gif" width="300" height="220" alt="Coding GIF 1"/>
-  <img src="https://YOUR-SECOND-GIF.gif" width="300" height="220" alt="Coding GIF 2"/>
-  <img src="https://YOUR-THIRD-GIF.gif" width="300" height="220" alt="Coding GIF 3"/>
-</p>
+  <img src="GIF_LINK_1" width="300" height="220"/>
+  <img src="GIF_LINK_2" width="300" height="220"/>
+  </p>
 
