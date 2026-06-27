@@ -49,11 +49,9 @@ Aspiring Software Developer | Learning DSA | Web Development
 <h2 align="center">🎮 Fun Zone</h2>
 
 <p align="center">
-<img src="GIF1_LINK" width="260"/>
-<img src="GIF2_LINK" width="260"/>
-<img src="GIF3_LINK" width="260"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="180" alt="Modern Programmer"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" height="180" alt="Funny Penguin"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" height="180" alt="Pixel Girl Coding"/>
 </p>
-
-
 
 
