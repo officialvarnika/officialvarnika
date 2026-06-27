@@ -46,11 +46,6 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<h2 align="center">🎮 Fun Zone</h2>
-
 <p align="center">
-  <img src="assets/gifs/programmer.gif" width="32%">
-  <img src="assets/gifs/penguin.gif" width="32%">
-  <img src="assets/gifs/pixel-girl.gif" width="32%">
+  <img src="./assets/images/fun-zone.png" width="100%">
 </p>
-
