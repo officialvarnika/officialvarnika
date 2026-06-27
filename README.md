@@ -46,8 +46,10 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
-</p>
+<table align="center">
+<tr>
+<td><img src="GIF_LINK_1" width="300"></td>
+<td><img src="GIF_LINK_2" width="300"></td>
+<td><img src="GIF_LINK_3" width="300"></td>
+</tr>
+</table>
