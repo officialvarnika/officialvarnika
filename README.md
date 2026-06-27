@@ -1,96 +1,51 @@
-<h1 align="center">Hi 👋, I'm Varnika Verma</h1>
-<h3 align="center">Aspiring Software Developer | Learning Game Development & Web Development</h3>
+<h1 align="center">
+Hi 👋, I'm Varnika Verma
+</h1>
+<h3 align="center">
+Aspiring Software Developer | Learning DSA | Web Development
+</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Varnika+Verma;Frontend+Developer;Learning+DSA;Open+Source+Enthusiast" />
+</p>
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, React, and Lua**
-
-- 🎮 I built a **Ping Pong Game** using **Lua & LÖVE2D**
-
-- 💻 I enjoy building projects and improving my programming skills.
-
-- 📫 Reach me at: **officialvarnika@gmail.com**
-
-- ⚡ Fun fact: **I love solving coding problems and exploring new technologies.**
-- ---
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,react,git,github,vscode&perline=10" />
+<a href="https://instagram.com/YOUR-ID">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 </p>
----
+## 👩‍💻 About Me
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialvarnika&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+- 🌱 Learning Web Development
+- 💻 Solving DSA Problems
+- 🚀 Building Projects
+- 📫 Reach me: officialvarnika@email.com
+- <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,java,mongodb,git,github,vscode,firebase" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=officialvarnika&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
-
 ## 📈 Contribution Graph
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialvarnika&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
----
----
-
-## 🚀 Featured Projects
-
-### 🏓 Ping Pong Game
-A classic 2D Ping Pong game built using Lua and the LÖVE2D framework.
-
-**Features**
-- 🎮 Two-player gameplay
-- ⚡ Smooth paddle and ball movement
-- 💥 Collision detection
-- 🔊 Sound effects
-- 📊 Score tracking
-- 🔄 Game state management
-
-🔗 Repository: https://github.com/officialvarnika/pong-live
----
-
-## 📫 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:officialvarnika@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/officialvarnika">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 <p align="center">
-  <a href="https://github.com/officialvarnika/pong-live">
-    <img src="https://img.shields.io/badge/View%20Project-Ping%20Pong%20Game-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=officialvarnika&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-<p align="center">
-  <a href="https://github.com/officialvarnika/pong-live">
-    <img src="https://img.shields.io/badge/View_Project-Ping_Pong_Game-0366d6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
+## ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+</p>
