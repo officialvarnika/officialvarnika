@@ -79,4 +79,7 @@ A classic 2D Ping Pong game built using Lua and the LÖVE2D framework.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
+🔗 Repository: https://github.com/officialvarnika/pong-live
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=officialvarnika&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
