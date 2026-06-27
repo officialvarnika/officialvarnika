@@ -46,16 +46,18 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h3 align="center">💻 Coding Vibes 💻</h3>
+
 <table align="center">
   <tr>
-    <td>
-      <img src="YOUR_FIRST_GIF_LINK" width="300" height="220">
+    <td align="center">
+      <img src="YOUR_GIF_LINK_1" alt="Coding GIF 1" width="300" height="220">
     </td>
-    <td>
-      <img src="YOUR_SECOND_GIF_LINK" width="300" height="220">
+    <td align="center">
+      <img src="YOUR_GIF_LINK_2" alt="Coding GIF 2" width="300" height="220">
     </td>
-    <td>
-      <img src="YOUR_THIRD_GIF_LINK" width="300" height="220">
+    <td align="center">
+      <img src="YOUR_GIF_LINK_3" alt="Coding GIF 3" width="300" height="220">
     </td>
   </tr>
 </table>
