@@ -31,7 +31,7 @@ Aspiring Software Developer | Learning DSA | Web Development
 </p>
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=officialvarnika&theme=tokyo-night)
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
