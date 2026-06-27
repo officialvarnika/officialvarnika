@@ -47,8 +47,15 @@ Aspiring Software Developer | Learning DSA | Web Development
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <table align="center">
-  <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
-</p>
+  <tr>
+    <td>
+      <img src="YOUR_FIRST_GIF_LINK" width="300" height="220">
+    </td>
+    <td>
+      <img src="YOUR_SECOND_GIF_LINK" width="300" height="220">
+    </td>
+    <td>
+      <img src="YOUR_THIRD_GIF_LINK" width="300" height="220">
+    </td>
+  </tr>
+</table>
