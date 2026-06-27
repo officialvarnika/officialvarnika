@@ -48,16 +48,9 @@ Aspiring Software Developer | Learning DSA | Web Development
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <h2 align="center">🎮 Fun Zone</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="270" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="270" height="180"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/gifs/programmer.gif" width="32%">
+  <img src="assets/gifs/penguin.gif" width="32%">
+  <img src="assets/gifs/pixel-girl.gif" width="32%">
+</p>
+
