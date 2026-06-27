@@ -12,7 +12,7 @@ Aspiring Software Developer | Learning DSA | Web Development
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/officialvarnika">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
