@@ -46,6 +46,16 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=officialvarnika&show_icons=true&theme=tokyonight" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialvarnika&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvarnika&layout=compact&theme=tokyonight" />
+</p>
 ## 🧑‍💻 Coding Vibes
 
 <table>
