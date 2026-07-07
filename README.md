@@ -42,12 +42,11 @@ Aspiring Software Developer | React Learner | DSA Enthusiast | Open Source Explo
 
 ## 🛠️ Languages & Tools
 
+## 📊 Top Languages
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,java,mongodb,mysql,git,github,vscode,firebase,figma&perline=8"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvarnika&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
