@@ -43,9 +43,18 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6)
+
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ## 📊 GitHub Stats
 
