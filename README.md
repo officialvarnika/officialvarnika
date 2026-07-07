@@ -34,9 +34,6 @@ Aspiring Software Developer | Learning DSA | Web Development
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialvarnika&theme=tokyo-night"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ## ✍️ Random Dev Quote
 
