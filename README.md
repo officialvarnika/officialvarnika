@@ -42,10 +42,10 @@ Aspiring Software Developer | Learning DSA | Web Development
 </p>
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=onedark" />
 </p>
+
 
 ## 📊 GitHub Stats
 
