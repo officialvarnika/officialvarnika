@@ -1,4 +1,4 @@
-<h1 align="center">
+##<h1 align="center">
 Hi 👋, I'm Varnika Verma
 </h1>
 <h3 align="center">
@@ -30,16 +30,10 @@ Aspiring Software Developer | Learning DSA | Web Development
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,java,mongodb,git,github,vscode,firebase" />
 </p>
 ## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=officialvarnika&theme=tokyo-night)
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=officialvarnika&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialvarnika&theme=tokyo-night"/>
+</p>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=officialvarnika&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvarnika&layout=compact&theme=tokyonight"/>
-</p>
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6)
@@ -53,18 +47,22 @@ Aspiring Software Developer | Learning DSA | Web Development
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=officialvarnika&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialvarnika&show_icons=true&theme=tokyonight" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialvarnika&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=officialvarnika&show_icons=true&theme=tokyonight"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvarnika&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=officialvarnika&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialvarnika&layout=compact&theme=tokyonight"/>
+
 </p>
+
+
 ## 🧑‍💻 Coding Vibes
 
 <table>
